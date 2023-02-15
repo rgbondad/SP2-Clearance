@@ -1,6 +1,6 @@
 @echo off
 rem Adapt for your path
-Lua.exe itemBasedCF.lua
-Lua.exe vectorCosineCF.lua
-Lua.exe userBasedCF_pearson.lua
-Lua.exe ANN.lua
+lua54.exe itemBasedCF.lua
+lua54.exe vectorCosineCF.lua
+lua54.exe userBasedCF_pearson.lua
+lua54.exe ANN.lua
